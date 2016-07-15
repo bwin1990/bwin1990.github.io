@@ -9,21 +9,19 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "http://tianguolangzi.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username: tianguolangzi
+facebook_username: tianguolangzi
+github_username:  tianguolangzi
+email: tianguolangzi@yahoo.com
+linkedIn_username: tianguolangzi
 dribbble_username: 
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 本站记录我研究生之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
