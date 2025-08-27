@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ZK
-brief-intro: Bioinformatic
+title: heyoutaoyuan
+brief-intro: ZengCheng in wonderland
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tianguolangzi.github.io" # the base hostname & protocol for your site
+url: "https://bwin1990.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: tianguolangzi
-facebook_username: tianguolangzi
-github_username:  tianguolangzi
-email: tianguolangzi@yahoo.com
-linkedIn_username: tianguolangzi
+twitter_username: chengzeng1990
+facebook_username: chengzeng1990
+github_username:  bwin1990
+email: chengzeng1990@gmail.com
+linkedIn_username: chengzeng1990
 dribbble_username: 
 
-description_footer: 本站记录我研究生之旅的沿途风景！
+description_footer: collection of playable thoughts and witness
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -55,4 +55,4 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
